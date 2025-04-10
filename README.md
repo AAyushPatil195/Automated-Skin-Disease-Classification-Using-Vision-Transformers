@@ -77,8 +77,21 @@ This project was inspired by the Vision Transformer (ViT) architecture and its s
 
 - Kaggle Dataset
 
-![image](https://github.com/user-attachments/assets/45aba0e6-2fa2-4cf7-881c-4fe5c6dee8cf)
-![image](https://github.com/user-attachments/assets/e5bee6fa-3266-448e-8519-f5be71fb6cae)
-![FinalDesign](https://github.com/user-attachments/assets/f217af61-44ee-4d2f-a85b-7d34cc1b2839)
-![image](https://github.com/user-attachments/assets/9a699089-a3f1-48ce-b21e-4075d4c84d17)
-![image](https://github.com/user-attachments/assets/caedbab2-f537-4ffb-beff-19bd98f5e60b)
+  
+## 📸 Visuals
+
+### 🔷 Confusion Matrix
+![Confusion Matrix](https://github.com/user-attachments/assets/45aba0e6-2fa2-4cf7-881c-4fe5c6dee8cf)
+
+### 🧠 Architecture
+![Architecture](https://github.com/user-attachments/assets/e5bee6fa-3266-448e-8519-f5be71fb6cae)
+
+### 🧾 Overview of Model
+![Overview of model](https://github.com/user-attachments/assets/f217af61-44ee-4d2f-a85b-7d34cc1b2839)
+
+### 🚀 Deployment Results
+**Result 1:**  
+![Deploy result 01](https://github.com/user-attachments/assets/9a699089-a3f1-48ce-b21e-4075d4c84d17)
+
+**Result 2:**  
+![Deploy result 02](https://github.com/user-attachments/assets/caedbab2-f537-4ffb-beff-19bd98f5e60b)
