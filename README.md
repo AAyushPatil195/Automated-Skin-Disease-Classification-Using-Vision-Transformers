@@ -2,6 +2,8 @@
 
 This project uses a **Vision Transformer (ViT)** to classify skin disease images into 14 categories using a dataset from Kaggle. It demonstrates how transformer-based models can be applied to computer vision tasks, replacing traditional CNNs with self-attention mechanisms for powerful global feature extraction.
 
+Live Demo over [hugging phase](https://huggingface.co/spaces/Ankit393/skin_lesion)
+
 ---
 
 ## 📁 Dataset
