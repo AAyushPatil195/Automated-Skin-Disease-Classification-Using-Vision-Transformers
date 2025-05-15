@@ -29,6 +29,25 @@ Live Demo over [hugging phase](https://huggingface.co/spaces/Ankit393/skin_lesio
 This model classifies images into **14 skin disease categories**.  
 *(Ensure the dataset is organized into `train/`, `val/`, and `test/` folders with subdirectories for each class.)*
 
+1. Actinic keratoses – Rough, scaly patches caused by sun damage; precancerous, may be hard to detect early 🔍
+2. Basal cell carcinoma – Common skin cancer with pearly bumps or scars; early forms may be missed by naked eye 🔍
+3. Benign keratosis-like lesions – Harmless, wart-like or pigmented growths; usually visible to the eye 👁️
+4. Chickenpox – Red, itchy blisters from viral infection; clearly visible on skin 👁️
+5. Cowpox – Rare viral disease causing pustular lesions; visible, but rare in humans 🔍
+6. Dermatofibroma – Firm, small nodules on skin, often brownish; visible to naked eye 👁️
+7. Healthy – Normal, lesion-free skin; appears clear and healthy 👁️
+8. HFMD (Hand, Foot, and Mouth Disease) – Red spots/blisters on hands, feet, and mouth; visibly apparent 👁️
+9. Measles – Red rash with fever, starts on face then spreads; rash is visibly noticeable 🔍
+10. Melanocytic nevi (moles) – Benign pigmented spots or moles; generally visible 👁️
+11. Melanoma – Dangerous skin cancer, often irregular dark mole; early forms may be hard to detect 🔍
+12. Monkeypox – Viral rash with pustules and fever; visible on skin 🔍
+13. Squamous cell carcinoma – Scaly red patches or open sores; early detection by eye can be difficult 🔍
+14. Vascular lesions – Red/purple spots from blood vessel growth; some deep ones may be hard to detect 🔍
+
+Legend:
+👁️ = Detectable with naked eye
+🔍 = May not be detectable reliably with naked eye (requires clinical evaluation or biopsy)
+
 ---
 
 ✅ Evaluation
